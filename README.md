@@ -1,2 +1,2 @@
 # prodairy
-various projects for Cornell's PRO-DAIRY: Environmental Systems as an undergraduate research assistant
+various projects for Cornell's PRO-DAIRY: Environmental Systems as an undergraduate research assistant, Spring 2024
